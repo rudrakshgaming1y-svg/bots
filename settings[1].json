@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "revangerssmp.mcsh.gg",
+    "ip": "revangerssmp.play.hosting",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
